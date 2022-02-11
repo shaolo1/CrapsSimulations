@@ -1,7 +1,29 @@
 # CrapsSimulations
 Results from running various craps strategies
 
-20% goal 10k sessions max 4*144 (576) Rolls
+50k goal, no roll limit        
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|BurningSpear68at10w4K1ThirdStop5xTake720Reset|0|0|99|-1,566|77|1,068|46,286|-2,860|4,118|
+|BurningSpear68at10w4K1ThirdStop720Reset|0|0|99|-1,549|75|1,068|46,662|-2,868|4,223|
+
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Long<br/>Sess Num|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|BurningSpear68at10w4K1ThirdStop5xTake720Reset|0|0|99|-1,566|77|1,068|46,286|-2,860|4,118|-15,654,934|5|5|9,995|15|268,836|230,654|-15,885,588|8,446|
+|BurningSpear68at10w4K1ThirdStop720Reset|0|0|99|-1,549|75|1,068|46,662|-2,868|4,223|-15,480,724|8|8|9,992|15|271,062|369,010|-15,849,734|8,446|        
+        
+100k goal, no roll limit
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|BurningSpear68at10w4K1ThirdStop5xTake720Reset|0|0|100|-1,590|77|1,068|-1,334|-2,860|4,162|
+|BurningSpear68at10w4K1ThirdStop720Reset|0|0|100|-1,587|75|1,068|-1,334|-2,868|4,308|
+
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Long<br/>Sess Num|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|BurningSpear68at10w4K1ThirdStop5xTake720Reset|0|0|100|-1,590|77|1,068|-1,334|-2,860|4,162|-15,893,338|0|0|10,000|15|303,952|0|-15,893,338|5,231|
+|BurningSpear68at10w4K1ThirdStop720Reset|0|0|100|-1,587|75|1,068|-1,334|-2,868|4,308|-15,861,924|0|0|10,000|15|337,700|0|-15,861,924|5,231|        
+
+20% goal, 10k sessions max 4*144 (576) Rolls
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |BurningSpear68at10w2K|74|74|25|-38|63|768|730|-2,000|134|
@@ -20,7 +42,7 @@ Results from running various craps strategies
 |BurningSpear68at10w4K1ThirdStop5xTake720Reset|58|60|39|-84|69|768|1,500|-2,852|252|-832,106|5,809|6,016|3,982|15|576|4,892,856|-5,724,962|60|
 |BurningSpear68at10w4K1ThirdStop720Reset|58|59|40|-79|67|768|1,494|-2,868|253|-786,352|5,811|5,990|4,010|15|576|4,920,092|-5,706,444|51|
 
-10% goal 10k sessions max 4*144 (576) Rolls
+10% goal, 10k sessions max 4*144 (576) Rolls
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |BurningSpear68at10w2K|85|85|14|-23|58|768|584|-1,916|80|

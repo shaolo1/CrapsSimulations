@@ -20,6 +20,20 @@ Results from running various craps strategies
 |DGE68at10w500x12x21x58x156d|80.42|80.42|19.58|-8|34|168|113|-494|150|-75,886|8,042|8,042|1,958|7|574|859,293|-935,179|6,855|
 |DGE68at10w500x12x21x58x156d1|79.14|79.14|20.86|-7|33|168|113|-500|146|-63,265|7,914|7,914|2,086|7|454|835,757|-899,022|2,964|
 
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|BurningSpear68at10w2K|74.16|74.16|25.84|-6|36|192|286|-500|48|
+|BurningSpear68at10w2K1ThirdStop|66.36|66.36|33.64|-6|33|192|286|-404|46|
+|BurningSpear68at10w2K1ThirdStop5xTake|65.52|65.52|34.48|-6|33|192|248|-406|46|
+|BurningSpear68at10w2K1ThirdStopTakePress|66.36|66.36|33.64|-7|33|192|218|-406|45|
+
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Long<br/>Sess Num|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|BurningSpear68at10w2K|74.16|74.16|25.84|-6|36|192|286|-500|48|-55,858|7,416|7,416|2,584|8|130|844,216|-900,074|5,279|
+|BurningSpear68at10w2K1ThirdStop|66.36|66.36|33.64|-6|33|192|286|-404|46|-56,102|6,636|6,636|3,364|7|130|756,778|-812,880|5,279|
+|BurningSpear68at10w2K1ThirdStop5xTake|65.52|65.52|34.48|-6|33|192|248|-406|46|-59,916|6,552|6,552|3,448|7|140|757,990|-817,906|6,519|
+|BurningSpear68at10w2K1ThirdStopTakePress|66.36|66.36|33.64|-7|33|192|218|-406|45|-62,088|6,636|6,636|3,364|7|130|747,676|-809,764|2,092|
+
 564 buy in
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|

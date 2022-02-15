@@ -20,6 +20,15 @@ Results from running various craps strategies
 |DGE68at10w500x12x21x58x156d|80.42|80.42|19.58|-8|34|168|113|-494|150|-75,886|8,042|8,042|1,958|7|574|859,293|-935,179|6,855|
 |DGE68at10w500x12x21x58x156d1|79.14|79.14|20.86|-7|33|168|113|-500|146|-63,265|7,914|7,914|2,086|7|454|835,757|-899,022|2,964|
 
+564 buy in
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|DGE68at10w564x12x24x66x180|80.24|80.24|19.76|-7|35|180|125|-564|151|
+
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Long<br/>Sess Num|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|DGE68at10w564x12x24x66x180|80.24|80.24|19.76|-7|35|180|125|-564|151|-68,586|8,024|8,024|1,976|7|432|945,145|-1,013,731|7,878|
+
 50k goal, no roll limit        
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|

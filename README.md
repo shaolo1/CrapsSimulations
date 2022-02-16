@@ -105,29 +105,42 @@ Results from running various craps strategies
 |BurningSpear68at10w4K1ThirdStop5xTake720Reset|75|75|24|-41|65|768|1,096|-2,852|140|-405,994|7,535|7,556|2,444|15|576|3,223,264|-3,629,258|137|
 |BurningSpear68at10w4K1ThirdStop720Reset|75|75|24|-42|64|768|1,068|-2,868|142|-415,722|7,519|7,536|2,464|13|576|3,240,810|-3,656,532|51|
 
+
 10k rolls $500 max rolls 4*144 (576)    
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |Pass0xOddsDGEPass5|78.55|78.55|21.45|-12|49|300|195|-500|45|
+|Pass0xOddsDGEPass5v1|78.55|78.55|21.45|-12|49|300|195|-500|45|
+|Pass0xOddsDGEPass5v2|80.81|80.81|19.19|-10|34|280|145|-500|69|
 
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Long<br/>Sess Num|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |Pass0xOddsDGEPass5|78.55|78.55|21.45|-12|49|300|195|-500|45|-116,320|7,855|7,855|2,145|5|348|953,755|-1,070,075|7,778|
+|Pass0xOddsDGEPass5v1|78.55|78.55|21.45|-12|49|300|195|-500|45|-117,425|7,855|7,855|2,145|5|348|953,755|-1,071,180|7,778|
+|Pass0xOddsDGEPass5v2|80.81|80.81|19.19|-10|34|280|145|-500|69|-90,470|8,081|8,081|1,919|9|576|865,190|-955,660|948|
 
 10k rolls $1000 max rolls 4*144 (576)    
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |Pass0xOddsDGEPass5|79.84|79.86|20.14|-23|62|600|295|-1,000|81|
+|Pass0xOddsDGEPass5v1|79.85|79.87|20.13|-23|62|600|295|-1,000|81|
+|Pass0xOddsDGEPass5v2|80.36|80.80|19.17|-20|39|560|245|-1,000|134|
 
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Long<br/>Sess Num|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |Pass0xOddsDGEPass5|79.84|79.86|20.14|-23|62|600|295|-1,000|81|-221,900|7,984|7,986|2,014|11|576|1,785,945|-2,007,845|675|
+|Pass0xOddsDGEPass5v1|79.85|79.87|20.13|-23|62|600|295|-1,000|81|-221,535|7,985|7,987|2,013|11|576|1,786,165|-2,007,700|675|
+|Pass0xOddsDGEPass5v2|80.36|80.80|19.17|-20|39|560|245|-1,000|134|-199,615|8,036|8,080|1,917|15|576|1,669,515|-1,869,130|84|
 
 10k rolls $5000 max rolls 4*144 (576)    
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |Pass0xOddsDGEPass5|76.40|78.82|21.18|-124|96|2,955|1,095|-5,000|306|
+|Pass0xOddsDGEPass5v1|76.12|78.94|21.06|-122|93|2,955|1,095|-5,000|315|
+|Pass0xOddsDGEPass5v2|27.01|78.04|21.95|-143|53|2,880|1,045|-5,000|520|
 
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Long<br/>Sess Num|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |Pass0xOddsDGEPass5|76.40|78.82|21.18|-124|96|2,955|1,095|-5,000|306|-1,235,890|7,640|7,882|2,118|21|576|7,955,545|-9,191,435|88|
+|Pass0xOddsDGEPass5v1|76.12|78.94|21.06|-122|93|2,955|1,095|-5,000|315|-1,210,065|7,612|7,894|2,106|21|576|7,949,470|-9,159,535|73|
+|Pass0xOddsDGEPass5v2|27.01|78.04|21.95|-143|53|2,880|1,045|-5,000|520|-1,429,180|2,701|7,804|2,195|21|576|6,884,155|-8,313,335|1|

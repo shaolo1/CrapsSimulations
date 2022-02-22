@@ -146,11 +146,14 @@ Results from running various craps strategies
 |Pass0xOddsDGEPass5v2|27.01|78.04|21.95|-143|53|2,880|1,045|-5,000|520|-1,429,180|2,701|7,804|2,195|21|576|6,884,155|-8,313,335|1|
 
 
-20% goal, 10k rolls $1000 max rolls 4*144 (576)    
+20% goal, 10k rolls $1000 max rolls 4*144 (576)
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 |DGEDrDo|73.98|74.17|25.83|-30|76|600|425|-1,000|107|
+|DGEDrDo2WinRegress|73.97|74.12|25.88|-31|76|480|344|-1,000|111|
+
 
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg<br/>Rolls|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Long<br/>Sess Num|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-|DGEDrDo|73.98|74.17|25.83|-30|76|600|425|-1,000|107|-291,267|7,398|7,417|2,583|7|576|1,625,467|-1,916,734|220|
+|DGEDrDo|73.98|74.17|25.83|-30|76|600|425|-1,000|107|-290,143|7,398|7,417|2,583|7|576|1,625,467|-1,915,610|220|
+|DGEDrDo2WinRegress|73.97|74.12|25.88|-31|76|480|344|-1,000|111|-300,196|7,397|7,412|2,588|7|576|1,626,660|-1,926,856|220|

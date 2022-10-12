@@ -6,10 +6,12 @@
 
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg Rolls<br/>Session|Avg Rolls<br/>Hand|
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-|3PointMolly1x1kWinGoalMaxRolls|69.36|69.36|30.61|-40|40|10|327|-977|492|9|
-|PlayerDerriphan|47.84|47.84|52.15|-192|102|20|258|-977|699|7|
+|3PointMolly1kWinGoalMaxRolls|81.03|81.03|18.97|-2|89|50|280|-1,000|96|9|
+|3PointMolly1x1kWinGoalMaxRolls|69.37|69.37|30.60|-41|41|10|269|-977|491|9|
+|PlayerDerriphan|47.93|47.93|52.04|-191|103|20|258|-977|699|7|
 
-|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg Rolls<br/>Session|Avg Rolls<br/>Hand|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Max Hand<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Best<br/>Sess #|Worst<br/>Sess #|Short<br/>Sess #|Long<br/>Sess #|Long Hand<br/>Sess #|Long Sess<br/>Loss Streak|Long Sess<br/>Win Streak|Max<br/>Buy In|Max Buy In<br/>Sess #|
-|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-|3PointMolly1x1kWinGoalMaxRolls|69.36|69.36|30.61|-40|40|10|327|-977|492|9|-398,390|6,936|6,936|3,061|17|1,106|80|1,410,098|-1,808,488|7,314|7,806|9,598|6,522|2,194|8|27|1,000|0|
-|PlayerDerriphan|47.84|47.84|52.15|-192|102|20|258|-977|699|7|-1,912,054|4,784|4,784|5,215|36|1,108|81|968,283|-2,880,337|8,838|4,576|8|602|3,269|12|14|1,000|0|
+|Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg<br/>Win $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg Rolls<br/>Session|Avg Rolls<br/>Hand|Total<br/>Win $|Goal<br/>Count|Win<br/>Count|Loss<br/>Count|Min<br/>Rolls|Max<br/>Rolls|Max Hand<br/>Rolls|Winners<br/>Win $|Losers<br/>Loss $|Best<br/>Sess #|Worst<br/>Sess #|Short<br/>Sess #|Long<br/>Sess #|Long Hand<br/>Sess #|Long Sess<br/>Loss Streak|Long Sess<br/>Win Streak|Max<br/>Buy In|Max Buy In<br/>Sess #|Max Rolls<br/>Count|
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+|3PointMolly1kWinGoalMaxRolls|81.03|81.03|18.97|-2|89|50|280|-1,000|96|9|-16,140|8,103|8,103|1,897|6|1,072|61|1,779,570|-1,795,710|99|8|4,078|6,490|9,283|4|31|1,000|0|0|
+|3PointMolly1x1kWinGoalMaxRolls|69.37|69.37|30.60|-41|41|10|269|-977|491|9|-404,936|6,937|6,937|3,060|18|1,114|80|1,407,206|-1,812,142|5,286|7,806|1,251|7,892|2,194|8|27|1,000|0|2,096|
+|PlayerDerriphan|47.93|47.93|52.04|-191|103|20|258|-977|699|7|-1,908,180|4,793|4,793|5,204|36|1,122|81|969,546|-2,877,726|8,838|4,576|8|4,905|3,269|12|14|1,000|0|4,095|

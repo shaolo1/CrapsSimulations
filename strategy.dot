@@ -1,0 +1,52 @@
+digraph G {
+    rankdir = TB;
+    dice23 [rank = 0label="2,3"];
+    dice711 [label="7,11"];
+    dice12 [label="12"];
+
+    dc20_dice23 [label="2,3"];
+    dc20_dice11 [label="11"];
+    dc20_dice12 [label="12"];
+
+    dc40_dice23 [label="2,3"];
+    dc40_dice11 [label="11"];
+    dc40_dice12 [label="12"];
+
+    {rank = same; dice23; dice711; dice12}
+    start [label="{no pass|10}", shape=record];
+    P4_dc [label="{P|4}|{dc|10}", shape=record];
+    {rank = same; start; P4_dc}
+
+    P4 [label="{P|4}|{no pass|10}|{dc|20}", shape=record];
+    P44	[label="{no come 4|20}", shape=record];
+    P444 [label="{P|4}|{dc|40}", shape=record];
+    P45	[label="{P|4}|{no pass|10}|{no come 5|20}|{dc|40}", shape=record];
+    P455 [label="{P|4}|{no come 5|40}", shape=record];
+    P456 [label="{P|4}|{no come 6|40}", shape=record];
+
+	start -> dice23 [label="+10", color=green, arrowhead="none"];
+	start -> dice711 [label="-10", color=red, arrowhead="none"];
+	start -> dice12 [arrowhead="none"];
+
+	start -> P4	[label="dice == 4"];
+	P4 -> P44	[label="dice == 4; -10", color=red];
+	P4 -> P45	[label="dice == 5"];
+	P4 -> dc20_dice23 [label="+20", color=green, arrowhead="none"];
+	P4 -> dc20_dice11 [label="-20", color=red, arrowhead="none"];
+	P4 -> dc20_dice12 [arrowhead="none"];
+
+	P44 -> P444	[label="dice == 4; -20-40=-60", color=red];
+	P444 -> start [label="dice == 7; +40-10=+30", color=green];
+	P444 -> start [label="dice == 4; -40-10=-50", color=red];
+
+	P45 -> P455	[label="dice == 5; +10-20=-10", color=red];
+	P45 -> P456	[label="dice == 6; +10+20=+30", color=blue];
+	P45 -> dc40_dice23 [label="+40", color=green, arrowhead="none"];
+	P45 -> dc40_dice11 [label="-40", color=red, arrowhead="none"];
+	P45 -> dc40_dice12 [arrowhead="none"];
+
+	P4 -> start [label="dice == 7; +10-20=-10", color=red];
+	P45 -> start [label="dice == 7; +10+20-40=-10", color=red];
+	P456 -> start [label="dice == 7; +40-10=+30", color=green];
+	P456 -> P4_dc [label="dice == 6; -40", color=red];
+}

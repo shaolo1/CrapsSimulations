@@ -3,7 +3,7 @@
 - Buy In: 1,000
 - Win Goal: 20%
 - Max Rolls: 1,080
-- Shooting: True
+- Shooting: False
 - Lay Vig Up Front: True
 
 |Player|Goal<br/>%|Win<br/>%|Loss<br/>%|Avg Win<br/>Session $|Avg Win<br/>Hand $|Avg<br/>Bet $|Max<br/>Bet $|Best<br/>Win $|Worst<br/>Loss $|Avg Rolls<br/>Session|Avg Rolls<br/>Hand|
